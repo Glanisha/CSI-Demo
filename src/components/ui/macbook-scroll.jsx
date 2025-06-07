@@ -162,7 +162,7 @@ export const Lid = ({
           className="absolute inset-0 flex items-center justify-center rounded-lg bg-[#010101]"
         >
           
-          <img src="../../../public/csi-removebg-preview.png" alt="logo" className="h-10 w-10" />
+          <img src="/csi-removebg-preview.png" alt="logo" className="h-10 w-10" />
         </div>
       </div>
       <motion.div
